@@ -1,0 +1,1 @@
+The code found in model.py is the GradientBoostingClassifier created from the data found in diabetes.csv. The code in diabetes_working.py is the code for the UI. The diabetes_model.pkl is the pickeled file used to process the model
